@@ -1,6 +1,4 @@
-
 <?php
-include ‘connection.php
 function OpenCon()
  {
  $dbhost = "localhost";
